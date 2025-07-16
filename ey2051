@@ -1,0 +1,1 @@
+genotek -vcf ey2051.vcf -output 23AndMeGenotek.txt -version 3
